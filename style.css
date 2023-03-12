@@ -131,7 +131,7 @@ body {
 }
 
 .row:nth-child(1) {
-  background-color: hsl(0, 100%, 67%, 0.2);
+  background-color: hsl(0, 100%, 67%, 0.05);
 }
 
 .row:nth-child(1) .badge b {
@@ -139,7 +139,7 @@ body {
 }
 
 .row:nth-child(2) {
-  background-color: hsl(39, 100%, 56%, 0.2);
+  background-color: hsl(39, 100%, 56%, 0.05);
 }
 
 .row:nth-child(2) .badge b {
@@ -147,7 +147,7 @@ body {
 }
 
 .row:nth-child(3) {
-  background-color: hsl(166, 100%, 37%, 0.2);
+  background-color: hsl(166, 100%, 37%, 0.05);
 }
 
 .row:nth-child(3) .badge b {
@@ -155,7 +155,7 @@ body {
 }
 
 .row:nth-child(4) {
-  background-color: hsl(252, 100%, 67%, 0.2);
+  background-color: hsl(252, 100%, 67%, 0.05);
 }
 
 .row:nth-child(4) .badge b {
