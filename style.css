@@ -168,7 +168,7 @@ body {
   gap: 0.5rem;
 }
 
-row p {
+.row p {
   color: gray;
 }
 
